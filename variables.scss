@@ -1,5 +1,10 @@
-//variables
-$color: blue;
+//VARIABLES
+// sass must be compiled in order to be used in modern browsers below is an example compile command
+// sass variables.scss:variables.css
+
+// to automate the process above use the command below
+// sass -- watch variables.scss:variables.css
+$color: green;
 
 ul {
     font-size: 14px;
