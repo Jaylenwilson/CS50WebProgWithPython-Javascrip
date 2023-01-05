@@ -1,0 +1,15 @@
+// NESTING
+// every p inside the div will be blue
+// every ul inside the div will be green
+
+div {
+    font-size: 18px;
+
+    p {
+        color: #0000ff;
+    }
+
+    ul {
+        color: green
+    }
+}
