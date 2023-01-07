@@ -19,6 +19,5 @@ print(names[0])
 # tuple - sequence of immutable values
 coordinate = (10.0, 20.0)
 
-#  set - collection of unique values
 
 # dict - collection of key-value pairs
