@@ -1,3 +1,5 @@
+# dict - collection of key-value pairs mutable and unordered
+
 # define a dictionary
 houses = {"Harry": "Gryffindor", "Draco": "Slytheerin"}
 

@@ -1,4 +1,4 @@
-#  set - collection of unique values
+#  set - collection of unique values its is mutable
 # Create an empty set
 s = set()
 
