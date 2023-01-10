@@ -11,6 +11,6 @@ people = [
 people.sort(key=lambda person: ["name"])
 
 
-people.sort(key=f)
+# people.sort(key=f)
 
 print(people)
